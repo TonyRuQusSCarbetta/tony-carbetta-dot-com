@@ -1,13 +1,3 @@
-/*
- *settings theme
- */
-/*
-author: Developed by Stas Melnikov. http://stas-melnikov.ru
-e-mail: melnik909$ya.ru
-*/
-/*
- *basic styles
- */
 * {
   margin: 0;
   padding: 0;
@@ -1313,7 +1303,7 @@ box-shadow: 4px 4px 4px 0px rgba(167,71,82,1);
 }
 
 .portfolio__header {
-  margin: 1rem 0 7rem;
+  margin: 7rem 0 7rem;
   text-align: center;
   position: relative;
   padding-bottom: 1rem;
@@ -6326,4 +6316,14 @@ padding: 13.5px;
   .mobile-view {
     display: inherit;
   }
+}
+
+/* span.welcome__label.layer.animated.fadeInUp {
+    margin-bottom: 40px;
+}
+a.welcome__link.layer.animated.fadeInUp {
+  margin-bottom: 20px;
+} */
+span.welcome__name.layer.animated.fadeInDown {
+    margin-bottom: 7%;
 }
